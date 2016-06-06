@@ -1,0 +1,3 @@
+*.so
+*.o
+call_lib
